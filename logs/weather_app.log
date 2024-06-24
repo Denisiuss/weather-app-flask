@@ -1,0 +1,819 @@
+2024-06-18 11:22:27,778 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.10.1.220:5000
+2024-06-18 11:22:27,778 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-18 11:24:00,976 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.10.1.220:5000
+2024-06-18 11:24:00,976 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-18 11:24:00,982 - INFO -  * Restarting with stat
+2024-06-18 11:24:01,342 - WARNING -  * Debugger is active!
+2024-06-18 11:24:01,388 - INFO -  * Debugger PIN: 145-516-725
+2024-06-18 11:24:56,032 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-18 11:24:56,032 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-18 11:27:51,718 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.10.1.220:5000
+2024-06-18 11:27:51,724 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-18 11:27:51,724 - INFO -  * Restarting with stat
+2024-06-18 11:27:52,050 - WARNING -  * Debugger is active!
+2024-06-18 11:27:52,051 - INFO -  * Debugger PIN: 145-516-725
+2024-06-18 11:28:31,866 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.10.1.220:5000
+2024-06-18 11:28:31,866 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-18 11:28:31,867 - INFO -  * Restarting with stat
+2024-06-18 11:28:32,363 - WARNING -  * Debugger is active!
+2024-06-18 11:28:32,364 - INFO -  * Debugger PIN: 145-516-725
+2024-06-18 11:28:52,308 - INFO - 127.0.0.1 - - [18/Jun/2024 11:28:52] "[32mGET / HTTP/1.1[0m" 302 -
+2024-06-18 11:28:52,322 - INFO - 127.0.0.1 - - [18/Jun/2024 11:28:52] "GET /login HTTP/1.1" 200 -
+2024-06-18 11:28:52,361 - INFO - 127.0.0.1 - - [18/Jun/2024 11:28:52] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 11:28:52,361 - INFO - 127.0.0.1 - - [18/Jun/2024 11:28:52] "GET /static/main.css HTTP/1.1" 200 -
+2024-06-18 11:28:53,502 - INFO - 127.0.0.1 - - [18/Jun/2024 11:28:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-06-18 11:28:53,524 - INFO - 127.0.0.1 - - [18/Jun/2024 11:28:53] "GET /static/background.jpg HTTP/1.1" 200 -
+2024-06-18 11:29:18,906 - INFO - Login attempt with email: qwe@mail.com
+2024-06-18 11:29:18,906 - INFO - 127.0.0.1 - - [18/Jun/2024 11:29:18] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-18 11:29:18,909 - WARNING - Main page accessed
+2024-06-18 11:29:18,912 - INFO - 127.0.0.1 - - [18/Jun/2024 11:29:18] "GET /main HTTP/1.1" 200 -
+2024-06-18 11:29:18,972 - INFO - 127.0.0.1 - - [18/Jun/2024 11:29:18] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 11:29:18,975 - INFO - 127.0.0.1 - - [18/Jun/2024 11:29:18] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 11:30:02,540 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-18 11:30:02,540 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-18 11:30:13,876 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.10.1.220:5000
+2024-06-18 11:30:13,876 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-18 11:30:13,876 - INFO -  * Restarting with stat
+2024-06-18 11:30:14,302 - WARNING -  * Debugger is active!
+2024-06-18 11:30:14,303 - INFO -  * Debugger PIN: 145-516-725
+2024-06-18 11:30:16,713 - WARNING - User logged out
+2024-06-18 11:30:16,714 - INFO - 127.0.0.1 - - [18/Jun/2024 11:30:16] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-06-18 11:30:16,725 - INFO - 127.0.0.1 - - [18/Jun/2024 11:30:16] "GET /login HTTP/1.1" 200 -
+2024-06-18 11:30:16,782 - INFO - 127.0.0.1 - - [18/Jun/2024 11:30:16] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 11:30:16,787 - INFO - 127.0.0.1 - - [18/Jun/2024 11:30:16] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 11:30:16,799 - INFO - 127.0.0.1 - - [18/Jun/2024 11:30:16] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 11:30:22,231 - INFO - Login attempt with email: qwe@mail.com
+2024-06-18 11:30:22,232 - INFO - 127.0.0.1 - - [18/Jun/2024 11:30:22] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-18 11:30:22,240 - WARNING - Main page accessed
+2024-06-18 11:30:22,243 - INFO - 127.0.0.1 - - [18/Jun/2024 11:30:22] "GET /main HTTP/1.1" 200 -
+2024-06-18 11:30:22,311 - INFO - 127.0.0.1 - - [18/Jun/2024 11:30:22] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 11:30:22,315 - INFO - 127.0.0.1 - - [18/Jun/2024 11:30:22] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 11:34:05,187 - INFO -  * Detected change in '/home/denis/Python/w_app_to_arc/modules/modules.py', reloading
+2024-06-18 11:34:05,308 - INFO -  * Restarting with stat
+2024-06-18 11:34:05,713 - WARNING -  * Debugger is active!
+2024-06-18 11:34:05,714 - INFO -  * Debugger PIN: 145-516-725
+2024-06-18 11:39:11,490 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.10.1.220:5000
+2024-06-18 11:39:11,490 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-18 11:39:11,491 - INFO -  * Restarting with stat
+2024-06-18 11:39:11,930 - WARNING -  * Debugger is active!
+2024-06-18 11:39:11,931 - INFO -  * Debugger PIN: 145-516-725
+2024-06-18 11:39:14,659 - INFO - 127.0.0.1 - - [18/Jun/2024 11:39:14] "[32mGET /main HTTP/1.1[0m" 302 -
+2024-06-18 11:39:14,664 - INFO - 127.0.0.1 - - [18/Jun/2024 11:39:14] "GET /login HTTP/1.1" 200 -
+2024-06-18 11:39:14,702 - INFO - 127.0.0.1 - - [18/Jun/2024 11:39:14] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 11:39:14,705 - INFO - 127.0.0.1 - - [18/Jun/2024 11:39:14] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 11:39:14,712 - INFO - 127.0.0.1 - - [18/Jun/2024 11:39:14] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 11:39:19,390 - INFO - Login attempt with email: qwe@mail.com
+2024-06-18 11:39:19,392 - INFO - 127.0.0.1 - - [18/Jun/2024 11:39:19] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-18 11:39:19,395 - WARNING - Main page accessed
+2024-06-18 11:39:19,398 - INFO - 127.0.0.1 - - [18/Jun/2024 11:39:19] "GET /main HTTP/1.1" 200 -
+2024-06-18 11:39:19,462 - INFO - 127.0.0.1 - - [18/Jun/2024 11:39:19] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 11:39:19,470 - INFO - 127.0.0.1 - - [18/Jun/2024 11:39:19] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 11:39:22,087 - INFO - City weather information requested for minsk
+2024-06-18 11:39:22,092 - INFO - 127.0.0.1 - - [18/Jun/2024 11:39:22] "[35m[1mPOST /main HTTP/1.1[0m" 500 -
+2024-06-18 11:39:22,139 - INFO - 127.0.0.1 - - [18/Jun/2024 11:39:22] "GET /main?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-06-18 11:39:22,140 - INFO - 127.0.0.1 - - [18/Jun/2024 11:39:22] "GET /main?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-06-18 11:39:22,170 - INFO - 127.0.0.1 - - [18/Jun/2024 11:39:22] "GET /main?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-06-18 11:40:45,919 - INFO -  * Detected change in '/home/denis/Python/w_app_to_arc/modules/modules.py', reloading
+2024-06-18 11:40:46,015 - INFO -  * Restarting with stat
+2024-06-18 11:40:46,321 - WARNING -  * Debugger is active!
+2024-06-18 11:40:46,322 - INFO -  * Debugger PIN: 145-516-725
+2024-06-18 11:40:54,459 - INFO - 127.0.0.1 - - [18/Jun/2024 11:40:54] "[32mPOST /main HTTP/1.1[0m" 302 -
+2024-06-18 11:40:54,464 - INFO - 127.0.0.1 - - [18/Jun/2024 11:40:54] "GET /login HTTP/1.1" 200 -
+2024-06-18 11:40:54,499 - INFO - 127.0.0.1 - - [18/Jun/2024 11:40:54] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 11:40:54,502 - INFO - 127.0.0.1 - - [18/Jun/2024 11:40:54] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 11:40:54,512 - INFO - 127.0.0.1 - - [18/Jun/2024 11:40:54] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 11:40:59,117 - INFO - Login attempt with email: qwe@mail.com
+2024-06-18 11:40:59,118 - INFO - 127.0.0.1 - - [18/Jun/2024 11:40:59] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-18 11:40:59,121 - WARNING - Main page accessed
+2024-06-18 11:40:59,125 - INFO - 127.0.0.1 - - [18/Jun/2024 11:40:59] "GET /main HTTP/1.1" 200 -
+2024-06-18 11:40:59,185 - INFO - 127.0.0.1 - - [18/Jun/2024 11:40:59] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 11:40:59,190 - INFO - 127.0.0.1 - - [18/Jun/2024 11:40:59] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 11:41:02,003 - INFO - City weather information requested for minsk
+2024-06-18 11:41:02,010 - INFO - 127.0.0.1 - - [18/Jun/2024 11:41:02] "[35m[1mPOST /main HTTP/1.1[0m" 500 -
+2024-06-18 11:41:02,069 - INFO - 127.0.0.1 - - [18/Jun/2024 11:41:02] "[36mGET /main?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-18 11:41:02,070 - INFO - 127.0.0.1 - - [18/Jun/2024 11:41:02] "[36mGET /main?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-18 11:41:02,090 - INFO - 127.0.0.1 - - [18/Jun/2024 11:41:02] "[36mGET /main?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-18 11:41:30,112 - INFO -  * Detected change in '/home/denis/Python/w_app_to_arc/modules/modules.py', reloading
+2024-06-18 11:41:30,247 - INFO -  * Restarting with stat
+2024-06-18 11:41:30,573 - WARNING -  * Debugger is active!
+2024-06-18 11:41:30,573 - INFO -  * Debugger PIN: 145-516-725
+2024-06-18 11:41:33,526 - INFO - City weather information requested for minsk
+2024-06-18 11:41:33,535 - INFO - 127.0.0.1 - - [18/Jun/2024 11:41:33] "[35m[1mPOST /main HTTP/1.1[0m" 500 -
+2024-06-18 11:41:33,583 - INFO - 127.0.0.1 - - [18/Jun/2024 11:41:33] "[36mGET /main?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-18 11:41:33,587 - INFO - 127.0.0.1 - - [18/Jun/2024 11:41:33] "[36mGET /main?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-18 11:41:33,613 - INFO - 127.0.0.1 - - [18/Jun/2024 11:41:33] "[36mGET /main?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-18 11:41:37,380 - INFO - City weather information requested for minsk
+2024-06-18 11:41:37,382 - INFO - 127.0.0.1 - - [18/Jun/2024 11:41:37] "[35m[1mPOST /main HTTP/1.1[0m" 500 -
+2024-06-18 11:41:37,404 - INFO - 127.0.0.1 - - [18/Jun/2024 11:41:37] "[36mGET /main?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-18 11:41:37,405 - INFO - 127.0.0.1 - - [18/Jun/2024 11:41:37] "[36mGET /main?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-18 11:41:37,434 - INFO - 127.0.0.1 - - [18/Jun/2024 11:41:37] "[36mGET /main?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-18 11:41:39,549 - WARNING - Main page accessed
+2024-06-18 11:41:39,555 - INFO - 127.0.0.1 - - [18/Jun/2024 11:41:39] "GET /main HTTP/1.1" 200 -
+2024-06-18 11:41:39,596 - INFO - 127.0.0.1 - - [18/Jun/2024 11:41:39] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 11:41:39,601 - INFO - 127.0.0.1 - - [18/Jun/2024 11:41:39] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 11:41:43,824 - INFO - City weather information requested for minsk
+2024-06-18 11:41:43,827 - INFO - 127.0.0.1 - - [18/Jun/2024 11:41:43] "[35m[1mPOST /main HTTP/1.1[0m" 500 -
+2024-06-18 11:41:43,864 - INFO - 127.0.0.1 - - [18/Jun/2024 11:41:43] "[36mGET /main?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-18 11:41:43,864 - INFO - 127.0.0.1 - - [18/Jun/2024 11:41:43] "[36mGET /main?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-18 11:41:43,884 - INFO - 127.0.0.1 - - [18/Jun/2024 11:41:43] "[36mGET /main?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-18 11:46:18,170 - INFO -  * Detected change in '/home/denis/Python/w_app_to_arc/modules/modules.py', reloading
+2024-06-18 11:46:18,315 - INFO -  * Restarting with stat
+2024-06-18 11:46:19,045 - WARNING -  * Debugger is active!
+2024-06-18 11:46:19,045 - INFO -  * Debugger PIN: 145-516-725
+2024-06-18 11:46:29,698 - INFO - 127.0.0.1 - - [18/Jun/2024 11:46:29] "[32mGET /main HTTP/1.1[0m" 302 -
+2024-06-18 11:46:29,720 - INFO - 127.0.0.1 - - [18/Jun/2024 11:46:29] "GET /login HTTP/1.1" 200 -
+2024-06-18 11:46:29,775 - INFO - 127.0.0.1 - - [18/Jun/2024 11:46:29] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 11:46:29,775 - INFO - 127.0.0.1 - - [18/Jun/2024 11:46:29] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 11:46:29,783 - INFO - 127.0.0.1 - - [18/Jun/2024 11:46:29] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 11:46:35,411 - INFO - Login attempt with email: qwe@mail.com
+2024-06-18 11:46:35,412 - INFO - 127.0.0.1 - - [18/Jun/2024 11:46:35] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-18 11:46:35,415 - WARNING - Main page accessed
+2024-06-18 11:46:35,420 - INFO - 127.0.0.1 - - [18/Jun/2024 11:46:35] "GET /main HTTP/1.1" 200 -
+2024-06-18 11:46:35,507 - INFO - 127.0.0.1 - - [18/Jun/2024 11:46:35] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 11:46:35,518 - INFO - 127.0.0.1 - - [18/Jun/2024 11:46:35] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 11:46:38,254 - INFO - City weather information requested for minsk
+2024-06-18 11:46:38,259 - INFO - 127.0.0.1 - - [18/Jun/2024 11:46:38] "[35m[1mPOST /main HTTP/1.1[0m" 500 -
+2024-06-18 11:46:38,294 - INFO - 127.0.0.1 - - [18/Jun/2024 11:46:38] "[36mGET /main?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-18 11:46:38,294 - INFO - 127.0.0.1 - - [18/Jun/2024 11:46:38] "[36mGET /main?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-18 11:46:38,315 - INFO - 127.0.0.1 - - [18/Jun/2024 11:46:38] "[36mGET /main?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-18 11:47:49,411 - INFO -  * Detected change in '/home/denis/Python/w_app_to_arc/modules/modules.py', reloading
+2024-06-18 11:47:49,604 - INFO -  * Restarting with stat
+2024-06-18 11:47:50,098 - WARNING -  * Debugger is active!
+2024-06-18 11:47:50,099 - INFO -  * Debugger PIN: 145-516-725
+2024-06-18 11:48:00,381 - INFO - 127.0.0.1 - - [18/Jun/2024 11:48:00] "[32mGET /main HTTP/1.1[0m" 302 -
+2024-06-18 11:48:00,398 - INFO - 127.0.0.1 - - [18/Jun/2024 11:48:00] "GET /login HTTP/1.1" 200 -
+2024-06-18 11:48:00,443 - INFO - 127.0.0.1 - - [18/Jun/2024 11:48:00] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 11:48:00,446 - INFO - 127.0.0.1 - - [18/Jun/2024 11:48:00] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 11:48:00,454 - INFO - 127.0.0.1 - - [18/Jun/2024 11:48:00] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 11:48:04,641 - INFO - Login attempt with email: qwe@mail.com
+2024-06-18 11:48:04,642 - INFO - 127.0.0.1 - - [18/Jun/2024 11:48:04] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-18 11:48:04,644 - WARNING - Main page accessed
+2024-06-18 11:48:04,649 - INFO - 127.0.0.1 - - [18/Jun/2024 11:48:04] "GET /main HTTP/1.1" 200 -
+2024-06-18 11:48:04,727 - INFO - 127.0.0.1 - - [18/Jun/2024 11:48:04] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 11:48:04,741 - INFO - 127.0.0.1 - - [18/Jun/2024 11:48:04] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 11:48:07,125 - INFO - City weather information requested for minsk
+2024-06-18 11:48:10,895 - INFO - 127.0.0.1 - - [18/Jun/2024 11:48:10] "POST /main HTTP/1.1" 200 -
+2024-06-18 11:48:10,938 - INFO - 127.0.0.1 - - [18/Jun/2024 11:48:10] "GET /static/icons/rain.png HTTP/1.1" 200 -
+2024-06-18 11:48:10,941 - INFO - 127.0.0.1 - - [18/Jun/2024 11:48:10] "GET /static/icons/partly-cloudy-day.png HTTP/1.1" 200 -
+2024-06-18 11:48:10,948 - INFO - 127.0.0.1 - - [18/Jun/2024 11:48:10] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 11:48:10,948 - INFO - 127.0.0.1 - - [18/Jun/2024 11:48:10] "GET /static/icons/cloudy.png HTTP/1.1" 200 -
+2024-06-18 11:48:10,958 - INFO - 127.0.0.1 - - [18/Jun/2024 11:48:10] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 11:54:31,990 - INFO -  * Detected change in '/home/denis/Python/w_app_to_arc/modules/modules.py', reloading
+2024-06-18 11:54:32,105 - INFO -  * Restarting with stat
+2024-06-18 11:54:32,414 - WARNING -  * Debugger is active!
+2024-06-18 11:54:32,414 - INFO -  * Debugger PIN: 145-516-725
+2024-06-18 11:55:22,885 - INFO -  * Detected change in '/home/denis/Python/w_app_to_arc/app.py', reloading
+2024-06-18 11:55:22,985 - INFO -  * Restarting with stat
+2024-06-18 11:55:23,272 - WARNING -  * Debugger is active!
+2024-06-18 11:55:23,272 - INFO -  * Debugger PIN: 145-516-725
+2024-06-18 11:55:34,103 - INFO -  * Detected change in '/home/denis/Python/w_app_to_arc/app.py', reloading
+2024-06-18 11:55:34,204 - INFO -  * Restarting with stat
+2024-06-18 11:55:34,589 - WARNING -  * Debugger is active!
+2024-06-18 11:55:34,590 - INFO -  * Debugger PIN: 145-516-725
+2024-06-18 11:55:46,251 - WARNING - User logged out
+2024-06-18 11:55:46,252 - INFO - 127.0.0.1 - - [18/Jun/2024 11:55:46] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-06-18 11:55:46,257 - INFO - 127.0.0.1 - - [18/Jun/2024 11:55:46] "GET /login HTTP/1.1" 200 -
+2024-06-18 11:55:46,323 - INFO - 127.0.0.1 - - [18/Jun/2024 11:55:46] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 11:55:46,325 - INFO - 127.0.0.1 - - [18/Jun/2024 11:55:46] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 11:55:46,332 - INFO - 127.0.0.1 - - [18/Jun/2024 11:55:46] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 11:55:50,242 - INFO - Login attempt with email: qwe@mail.com
+2024-06-18 11:55:50,245 - INFO - 127.0.0.1 - - [18/Jun/2024 11:55:50] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-18 11:55:50,251 - WARNING - Main page accessed
+2024-06-18 11:55:50,254 - INFO - 127.0.0.1 - - [18/Jun/2024 11:55:50] "GET /main HTTP/1.1" 200 -
+2024-06-18 11:55:50,353 - INFO - 127.0.0.1 - - [18/Jun/2024 11:55:50] "GET /static/main.css HTTP/1.1" 200 -
+2024-06-18 11:55:50,362 - INFO - 127.0.0.1 - - [18/Jun/2024 11:55:50] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 11:55:54,199 - INFO - City weather information requested for minsk
+2024-06-18 11:55:54,206 - INFO - 127.0.0.1 - - [18/Jun/2024 11:55:54] "[35m[1mPOST /main HTTP/1.1[0m" 500 -
+2024-06-18 11:55:54,243 - INFO - 127.0.0.1 - - [18/Jun/2024 11:55:54] "GET /main?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-06-18 11:55:54,243 - INFO - 127.0.0.1 - - [18/Jun/2024 11:55:54] "[36mGET /main?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-18 11:55:54,257 - INFO - 127.0.0.1 - - [18/Jun/2024 11:55:54] "[36mGET /main?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-18 13:16:00,114 - INFO - 127.0.0.1 - - [18/Jun/2024 13:16:00] "[32mGET /main HTTP/1.1[0m" 302 -
+2024-06-18 13:16:00,126 - INFO - 127.0.0.1 - - [18/Jun/2024 13:16:00] "GET /login HTTP/1.1" 200 -
+2024-06-18 13:16:00,167 - INFO - 127.0.0.1 - - [18/Jun/2024 13:16:00] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 13:16:00,168 - INFO - 127.0.0.1 - - [18/Jun/2024 13:16:00] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 13:16:00,180 - INFO - 127.0.0.1 - - [18/Jun/2024 13:16:00] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 13:16:06,894 - INFO - Login attempt with email: qwe@mail.com
+2024-06-18 13:16:06,899 - INFO - 127.0.0.1 - - [18/Jun/2024 13:16:06] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-18 13:16:06,901 - WARNING - Main page accessed
+2024-06-18 13:16:06,902 - INFO - 127.0.0.1 - - [18/Jun/2024 13:16:06] "GET /main HTTP/1.1" 200 -
+2024-06-18 13:16:06,959 - INFO - 127.0.0.1 - - [18/Jun/2024 13:16:06] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 13:16:06,964 - INFO - 127.0.0.1 - - [18/Jun/2024 13:16:06] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 13:16:09,799 - INFO - City weather information requested for minxk
+2024-06-18 13:16:16,146 - INFO - 127.0.0.1 - - [18/Jun/2024 13:16:16] "POST /main HTTP/1.1" 200 -
+2024-06-18 13:16:16,167 - INFO - 127.0.0.1 - - [18/Jun/2024 13:16:16] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 13:16:16,171 - INFO - 127.0.0.1 - - [18/Jun/2024 13:16:16] "[36mGET /static/icons/partly-cloudy-day.png HTTP/1.1[0m" 304 -
+2024-06-18 13:16:16,172 - INFO - 127.0.0.1 - - [18/Jun/2024 13:16:16] "GET /static/icons/rain.png HTTP/1.1" 200 -
+2024-06-18 13:16:16,174 - INFO - 127.0.0.1 - - [18/Jun/2024 13:16:16] "[36mGET /static/icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-06-18 13:16:16,174 - INFO - 127.0.0.1 - - [18/Jun/2024 13:16:16] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 13:17:07,378 - WARNING - User logged out
+2024-06-18 13:17:07,378 - INFO - 127.0.0.1 - - [18/Jun/2024 13:17:07] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-06-18 13:17:07,381 - INFO - 127.0.0.1 - - [18/Jun/2024 13:17:07] "GET /login HTTP/1.1" 200 -
+2024-06-18 13:17:07,421 - INFO - 127.0.0.1 - - [18/Jun/2024 13:17:07] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 13:17:07,421 - INFO - 127.0.0.1 - - [18/Jun/2024 13:17:07] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 13:17:07,433 - INFO - 127.0.0.1 - - [18/Jun/2024 13:17:07] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 13:17:14,386 - INFO - Login attempt with email: abc@mail.com
+2024-06-18 13:17:14,386 - INFO - 127.0.0.1 - - [18/Jun/2024 13:17:14] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-18 13:17:14,393 - WARNING - Main page accessed
+2024-06-18 13:17:14,393 - INFO - 127.0.0.1 - - [18/Jun/2024 13:17:14] "GET /main HTTP/1.1" 200 -
+2024-06-18 13:17:14,441 - INFO - 127.0.0.1 - - [18/Jun/2024 13:17:14] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 13:17:14,448 - INFO - 127.0.0.1 - - [18/Jun/2024 13:17:14] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 13:17:24,304 - INFO - City weather information requested for london
+2024-06-18 13:17:27,747 - INFO - 127.0.0.1 - - [18/Jun/2024 13:17:27] "POST /main HTTP/1.1" 200 -
+2024-06-18 13:17:27,769 - INFO - 127.0.0.1 - - [18/Jun/2024 13:17:27] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 13:17:27,771 - INFO - 127.0.0.1 - - [18/Jun/2024 13:17:27] "[36mGET /static/icons/rain.png HTTP/1.1[0m" 304 -
+2024-06-18 13:17:27,773 - INFO - 127.0.0.1 - - [18/Jun/2024 13:17:27] "[36mGET /static/icons/partly-cloudy-day.png HTTP/1.1[0m" 304 -
+2024-06-18 13:17:27,775 - INFO - 127.0.0.1 - - [18/Jun/2024 13:17:27] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 13:17:27,776 - INFO - 127.0.0.1 - - [18/Jun/2024 13:17:27] "GET /static/icons/clear-day.png HTTP/1.1" 200 -
+2024-06-18 13:17:31,703 - WARNING - User logged out
+2024-06-18 13:17:31,703 - INFO - 127.0.0.1 - - [18/Jun/2024 13:17:31] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-06-18 13:17:31,707 - INFO - 127.0.0.1 - - [18/Jun/2024 13:17:31] "GET /login HTTP/1.1" 200 -
+2024-06-18 13:17:31,745 - INFO - 127.0.0.1 - - [18/Jun/2024 13:17:31] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 13:17:31,745 - INFO - 127.0.0.1 - - [18/Jun/2024 13:17:31] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 13:17:31,753 - INFO - 127.0.0.1 - - [18/Jun/2024 13:17:31] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 13:17:50,099 - INFO - Login attempt with email: qwe@MAIL.COM
+2024-06-18 13:17:50,099 - INFO - 127.0.0.1 - - [18/Jun/2024 13:17:50] "POST /login HTTP/1.1" 200 -
+2024-06-18 13:17:50,147 - INFO - 127.0.0.1 - - [18/Jun/2024 13:17:50] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 13:17:50,147 - INFO - 127.0.0.1 - - [18/Jun/2024 13:17:50] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 13:17:50,151 - INFO - 127.0.0.1 - - [18/Jun/2024 13:17:50] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 13:17:57,375 - INFO - Login attempt with email: qwe@mail.com
+2024-06-18 13:17:57,375 - INFO - 127.0.0.1 - - [18/Jun/2024 13:17:57] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-18 13:17:57,382 - WARNING - Main page accessed
+2024-06-18 13:17:57,382 - INFO - 127.0.0.1 - - [18/Jun/2024 13:17:57] "GET /main HTTP/1.1" 200 -
+2024-06-18 13:17:57,436 - INFO - 127.0.0.1 - - [18/Jun/2024 13:17:57] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 13:17:57,440 - INFO - 127.0.0.1 - - [18/Jun/2024 13:17:57] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 13:18:01,765 - INFO - City weather information requested for borisov
+2024-06-18 13:18:06,283 - INFO - 127.0.0.1 - - [18/Jun/2024 13:18:06] "POST /main HTTP/1.1" 200 -
+2024-06-18 13:18:06,307 - INFO - 127.0.0.1 - - [18/Jun/2024 13:18:06] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 13:18:06,313 - INFO - 127.0.0.1 - - [18/Jun/2024 13:18:06] "[36mGET /static/icons/rain.png HTTP/1.1[0m" 304 -
+2024-06-18 13:18:06,313 - INFO - 127.0.0.1 - - [18/Jun/2024 13:18:06] "[36mGET /static/icons/partly-cloudy-day.png HTTP/1.1[0m" 304 -
+2024-06-18 13:18:06,317 - INFO - 127.0.0.1 - - [18/Jun/2024 13:18:06] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 13:18:25,542 - INFO - City weather information requested for kiew
+2024-06-18 13:18:27,329 - INFO - 127.0.0.1 - - [18/Jun/2024 13:18:27] "POST /main HTTP/1.1" 200 -
+2024-06-18 13:18:27,346 - INFO - 127.0.0.1 - - [18/Jun/2024 13:18:27] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 13:18:27,352 - INFO - 127.0.0.1 - - [18/Jun/2024 13:18:27] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 13:18:53,184 - INFO - City weather information requested for tel-aviv
+2024-06-18 13:18:53,185 - INFO - 127.0.0.1 - - [18/Jun/2024 13:18:53] "POST /main HTTP/1.1" 200 -
+2024-06-18 13:18:53,203 - INFO - 127.0.0.1 - - [18/Jun/2024 13:18:53] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 13:18:53,215 - INFO - 127.0.0.1 - - [18/Jun/2024 13:18:53] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 13:18:58,001 - INFO - 127.0.0.1 - - [18/Jun/2024 13:18:58] "[32mPOST /main HTTP/1.1[0m" 302 -
+2024-06-18 13:18:58,005 - INFO - 127.0.0.1 - - [18/Jun/2024 13:18:58] "GET /login HTTP/1.1" 200 -
+2024-06-18 13:18:58,043 - INFO - 127.0.0.1 - - [18/Jun/2024 13:18:58] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 13:18:58,044 - INFO - 127.0.0.1 - - [18/Jun/2024 13:18:58] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 13:18:58,049 - INFO - 127.0.0.1 - - [18/Jun/2024 13:18:58] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 13:19:02,667 - INFO - Login attempt with email: qwe@mail.com
+2024-06-18 13:19:02,668 - INFO - 127.0.0.1 - - [18/Jun/2024 13:19:02] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-18 13:19:02,673 - WARNING - Main page accessed
+2024-06-18 13:19:02,674 - INFO - 127.0.0.1 - - [18/Jun/2024 13:19:02] "GET /main HTTP/1.1" 200 -
+2024-06-18 13:19:02,713 - INFO - 127.0.0.1 - - [18/Jun/2024 13:19:02] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 13:19:02,717 - INFO - 127.0.0.1 - - [18/Jun/2024 13:19:02] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 13:19:12,730 - INFO - City weather information requested for tel aviv
+2024-06-18 13:19:16,486 - INFO - 127.0.0.1 - - [18/Jun/2024 13:19:16] "POST /main HTTP/1.1" 200 -
+2024-06-18 13:19:16,509 - INFO - 127.0.0.1 - - [18/Jun/2024 13:19:16] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 13:19:16,512 - INFO - 127.0.0.1 - - [18/Jun/2024 13:19:16] "[36mGET /static/icons/clear-day.png HTTP/1.1[0m" 304 -
+2024-06-18 13:19:16,513 - INFO - 127.0.0.1 - - [18/Jun/2024 13:19:16] "[36mGET /static/icons/partly-cloudy-day.png HTTP/1.1[0m" 304 -
+2024-06-18 13:19:16,516 - INFO - 127.0.0.1 - - [18/Jun/2024 13:19:16] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 13:20:46,897 - INFO -  * Detected change in '/home/denis/Python/w_app_to_arc/modules/modules.py', reloading
+2024-06-18 13:20:47,001 - INFO -  * Restarting with stat
+2024-06-18 13:20:47,375 - WARNING -  * Debugger is active!
+2024-06-18 13:20:47,375 - INFO -  * Debugger PIN: 145-516-725
+2024-06-18 13:30:42,935 - INFO -  * Detected change in '/home/denis/Python/w_app_to_arc/app.py', reloading
+2024-06-18 13:30:43,047 - INFO -  * Restarting with stat
+2024-06-18 13:30:43,340 - WARNING -  * Debugger is active!
+2024-06-18 13:30:43,340 - INFO -  * Debugger PIN: 145-516-725
+2024-06-18 13:32:25,663 - WARNING - User logged out
+2024-06-18 13:32:25,663 - INFO - 127.0.0.1 - - [18/Jun/2024 13:32:25] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-06-18 13:32:25,669 - INFO - 127.0.0.1 - - [18/Jun/2024 13:32:25] "GET /login HTTP/1.1" 200 -
+2024-06-18 13:32:25,707 - INFO - 127.0.0.1 - - [18/Jun/2024 13:32:25] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 13:32:25,708 - INFO - 127.0.0.1 - - [18/Jun/2024 13:32:25] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 13:32:25,720 - INFO - 127.0.0.1 - - [18/Jun/2024 13:32:25] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 13:32:30,659 - INFO - Login attempt with email: qwe@mail.com
+2024-06-18 13:32:30,660 - INFO - 127.0.0.1 - - [18/Jun/2024 13:32:30] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-18 13:32:30,663 - WARNING - Main page accessed
+2024-06-18 13:32:30,667 - INFO - 127.0.0.1 - - [18/Jun/2024 13:32:30] "GET /main HTTP/1.1" 200 -
+2024-06-18 13:32:30,725 - INFO - 127.0.0.1 - - [18/Jun/2024 13:32:30] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 13:32:30,730 - INFO - 127.0.0.1 - - [18/Jun/2024 13:32:30] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 13:32:32,594 - INFO - 127.0.0.1 - - [18/Jun/2024 13:32:32] "[33mGET /history HTTP/1.1[0m" 404 -
+2024-06-18 13:33:10,891 - WARNING - User logged out
+2024-06-18 13:33:10,891 - INFO - 127.0.0.1 - - [18/Jun/2024 13:33:10] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-06-18 13:33:10,896 - INFO - 127.0.0.1 - - [18/Jun/2024 13:33:10] "GET /login HTTP/1.1" 200 -
+2024-06-18 13:33:10,925 - INFO - 127.0.0.1 - - [18/Jun/2024 13:33:10] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 13:33:10,928 - INFO - 127.0.0.1 - - [18/Jun/2024 13:33:10] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 13:33:10,931 - INFO - 127.0.0.1 - - [18/Jun/2024 13:33:10] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 13:33:14,732 - INFO - Login attempt with email: qwe@mail.com
+2024-06-18 13:33:14,733 - INFO - 127.0.0.1 - - [18/Jun/2024 13:33:14] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-18 13:33:14,738 - WARNING - Main page accessed
+2024-06-18 13:33:14,742 - INFO - 127.0.0.1 - - [18/Jun/2024 13:33:14] "GET /main HTTP/1.1" 200 -
+2024-06-18 13:33:14,803 - INFO - 127.0.0.1 - - [18/Jun/2024 13:33:14] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 13:33:14,811 - INFO - 127.0.0.1 - - [18/Jun/2024 13:33:14] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 13:33:16,261 - INFO - 127.0.0.1 - - [18/Jun/2024 13:33:16] "GET /download-history HTTP/1.1" 200 -
+2024-06-18 13:39:10,258 - INFO - 127.0.0.1 - - [18/Jun/2024 13:39:10] "[32mGET /main HTTP/1.1[0m" 302 -
+2024-06-18 13:39:10,266 - INFO - 127.0.0.1 - - [18/Jun/2024 13:39:10] "GET /login HTTP/1.1" 200 -
+2024-06-18 13:39:10,298 - INFO - 127.0.0.1 - - [18/Jun/2024 13:39:10] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 13:39:10,298 - INFO - 127.0.0.1 - - [18/Jun/2024 13:39:10] "GET /static/main.css HTTP/1.1" 200 -
+2024-06-18 13:39:10,305 - INFO - 127.0.0.1 - - [18/Jun/2024 13:39:10] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 13:39:15,951 - INFO - Login attempt with email: qwe@mail.com
+2024-06-18 13:39:15,952 - INFO - 127.0.0.1 - - [18/Jun/2024 13:39:15] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-18 13:39:15,956 - WARNING - Main page accessed
+2024-06-18 13:39:15,956 - INFO - 127.0.0.1 - - [18/Jun/2024 13:39:15] "GET /main HTTP/1.1" 200 -
+2024-06-18 13:39:16,016 - INFO - 127.0.0.1 - - [18/Jun/2024 13:39:16] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 13:39:16,022 - INFO - 127.0.0.1 - - [18/Jun/2024 13:39:16] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+2024-06-18 13:51:55,853 - INFO -  * Detected change in '/home/denis/Python/w_app_to_arc/app.py', reloading
+2024-06-18 13:51:55,954 - INFO -  * Restarting with stat
+2024-06-18 13:51:56,329 - WARNING -  * Debugger is active!
+2024-06-18 13:51:56,329 - INFO -  * Debugger PIN: 145-516-725
+2024-06-18 13:55:23,507 - INFO -  * Detected change in '/home/denis/Python/w_app_to_arc/app.py', reloading
+2024-06-18 13:55:23,629 - INFO -  * Restarting with stat
+2024-06-18 13:55:24,062 - WARNING -  * Debugger is active!
+2024-06-18 13:55:24,062 - INFO -  * Debugger PIN: 145-516-725
+2024-06-18 13:57:50,611 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.10.1.220:5000
+2024-06-18 13:57:50,611 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-18 13:57:50,611 - INFO -  * Restarting with stat
+2024-06-18 13:57:51,134 - WARNING -  * Debugger is active!
+2024-06-18 13:57:51,135 - INFO -  * Debugger PIN: 145-516-725
+2024-06-18 13:57:53,299 - WARNING - User logged out
+2024-06-18 13:57:53,301 - INFO - 127.0.0.1 - - [18/Jun/2024 13:57:53] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-06-18 13:57:53,337 - INFO - 127.0.0.1 - - [18/Jun/2024 13:57:53] "GET /login HTTP/1.1" 200 -
+2024-06-18 13:57:53,435 - INFO - 127.0.0.1 - - [18/Jun/2024 13:57:53] "GET /static/main.css HTTP/1.1" 200 -
+2024-06-18 13:57:53,437 - INFO - 127.0.0.1 - - [18/Jun/2024 13:57:53] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 13:57:53,441 - INFO - 127.0.0.1 - - [18/Jun/2024 13:57:53] "[33mGET /static/{{%20bg_image%20}} HTTP/1.1[0m" 404 -
+2024-06-18 13:57:58,976 - INFO - Login attempt with email: qwe@mail.com
+2024-06-18 13:57:58,977 - INFO - 127.0.0.1 - - [18/Jun/2024 13:57:58] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-18 13:57:59,011 - WARNING - Main page accessed
+2024-06-18 13:57:59,020 - INFO - 127.0.0.1 - - [18/Jun/2024 13:57:59] "GET /main HTTP/1.1" 200 -
+2024-06-18 13:57:59,079 - INFO - 127.0.0.1 - - [18/Jun/2024 13:57:59] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 13:57:59,094 - INFO - 127.0.0.1 - - [18/Jun/2024 13:57:59] "[33mGET /static/{{%20bg_image%20}} HTTP/1.1[0m" 404 -
+2024-06-18 13:58:39,956 - WARNING - User logged out
+2024-06-18 13:58:39,956 - INFO - 127.0.0.1 - - [18/Jun/2024 13:58:39] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-06-18 13:58:39,959 - INFO - 127.0.0.1 - - [18/Jun/2024 13:58:39] "GET /login HTTP/1.1" 200 -
+2024-06-18 13:58:40,007 - INFO - 127.0.0.1 - - [18/Jun/2024 13:58:40] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 13:58:40,007 - INFO - 127.0.0.1 - - [18/Jun/2024 13:58:40] "GET /static/main.css HTTP/1.1" 200 -
+2024-06-18 13:58:40,016 - INFO - 127.0.0.1 - - [18/Jun/2024 13:58:40] "[33mGET /static/{{%20bg_image%20}} HTTP/1.1[0m" 404 -
+2024-06-18 13:58:44,072 - INFO - Login attempt with email: qwe@mail.com
+2024-06-18 13:58:44,073 - INFO - 127.0.0.1 - - [18/Jun/2024 13:58:44] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-18 13:58:44,075 - WARNING - Main page accessed
+2024-06-18 13:58:44,075 - INFO - 127.0.0.1 - - [18/Jun/2024 13:58:44] "GET /main HTTP/1.1" 200 -
+2024-06-18 13:58:44,140 - INFO - 127.0.0.1 - - [18/Jun/2024 13:58:44] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 13:58:44,145 - INFO - 127.0.0.1 - - [18/Jun/2024 13:58:44] "[33mGET /static/{{%20bg_image%20}} HTTP/1.1[0m" 404 -
+2024-06-18 13:59:42,502 - INFO -  * Detected change in '/home/denis/Python/w_app_to_arc/app.py', reloading
+2024-06-18 13:59:42,604 - INFO -  * Restarting with stat
+2024-06-18 13:59:42,909 - WARNING -  * Debugger is active!
+2024-06-18 13:59:42,910 - INFO -  * Debugger PIN: 145-516-725
+2024-06-18 13:59:45,471 - WARNING - User logged out
+2024-06-18 13:59:45,472 - INFO - 127.0.0.1 - - [18/Jun/2024 13:59:45] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-06-18 13:59:45,481 - INFO - 127.0.0.1 - - [18/Jun/2024 13:59:45] "GET /login HTTP/1.1" 200 -
+2024-06-18 13:59:45,511 - INFO - 127.0.0.1 - - [18/Jun/2024 13:59:45] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 13:59:45,518 - INFO - 127.0.0.1 - - [18/Jun/2024 13:59:45] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 13:59:45,521 - INFO - 127.0.0.1 - - [18/Jun/2024 13:59:45] "[33mGET /static/{{%20bg_image%20}} HTTP/1.1[0m" 404 -
+2024-06-18 13:59:49,900 - INFO - Login attempt with email: qwe@mail.com
+2024-06-18 13:59:49,901 - INFO - 127.0.0.1 - - [18/Jun/2024 13:59:49] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-18 13:59:49,921 - WARNING - Main page accessed
+2024-06-18 13:59:49,927 - INFO - 127.0.0.1 - - [18/Jun/2024 13:59:49] "GET /main HTTP/1.1" 200 -
+2024-06-18 13:59:49,985 - INFO - 127.0.0.1 - - [18/Jun/2024 13:59:49] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 13:59:49,992 - INFO - 127.0.0.1 - - [18/Jun/2024 13:59:49] "[33mGET /static/{{%20bg_image%20}} HTTP/1.1[0m" 404 -
+2024-06-18 14:00:57,125 - WARNING - User logged out
+2024-06-18 14:00:57,126 - INFO - 127.0.0.1 - - [18/Jun/2024 14:00:57] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-06-18 14:00:57,128 - INFO - 127.0.0.1 - - [18/Jun/2024 14:00:57] "GET /login HTTP/1.1" 200 -
+2024-06-18 14:00:57,162 - INFO - 127.0.0.1 - - [18/Jun/2024 14:00:57] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 14:00:57,162 - INFO - 127.0.0.1 - - [18/Jun/2024 14:00:57] "GET /static/main.css HTTP/1.1" 200 -
+2024-06-18 14:00:57,169 - INFO - 127.0.0.1 - - [18/Jun/2024 14:00:57] "[33mGET /static/{{%20bg_image%20}} HTTP/1.1[0m" 404 -
+2024-06-18 14:01:01,727 - INFO - Login attempt with email: qwe@mail.com
+2024-06-18 14:01:01,728 - INFO - 127.0.0.1 - - [18/Jun/2024 14:01:01] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-18 14:01:01,730 - WARNING - Main page accessed
+2024-06-18 14:01:01,731 - INFO - 127.0.0.1 - - [18/Jun/2024 14:01:01] "GET /main HTTP/1.1" 200 -
+2024-06-18 14:01:01,835 - INFO - 127.0.0.1 - - [18/Jun/2024 14:01:01] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 14:01:01,845 - INFO - 127.0.0.1 - - [18/Jun/2024 14:01:01] "[33mGET /static/{{%20bg_image%20}} HTTP/1.1[0m" 404 -
+2024-06-18 14:01:39,727 - INFO -  * Detected change in '/home/denis/Python/w_app_to_arc/app.py', reloading
+2024-06-18 14:01:39,833 - INFO -  * Restarting with stat
+2024-06-18 14:01:40,119 - WARNING -  * Debugger is active!
+2024-06-18 14:01:40,119 - INFO -  * Debugger PIN: 145-516-725
+2024-06-18 14:01:51,024 - INFO -  * Detected change in '/home/denis/Python/w_app_to_arc/app.py', reloading
+2024-06-18 14:01:51,128 - INFO -  * Restarting with stat
+2024-06-18 14:01:51,429 - WARNING -  * Debugger is active!
+2024-06-18 14:01:51,430 - INFO -  * Debugger PIN: 145-516-725
+2024-06-18 14:02:07,594 - INFO -  * Detected change in '/home/denis/Python/w_app_to_arc/app.py', reloading
+2024-06-18 14:02:07,716 - INFO -  * Restarting with stat
+2024-06-18 14:02:07,999 - WARNING -  * Debugger is active!
+2024-06-18 14:02:08,000 - INFO -  * Debugger PIN: 145-516-725
+2024-06-18 14:08:00,361 - INFO -  * Detected change in '/home/denis/Python/w_app_to_arc/app.py', reloading
+2024-06-18 14:08:00,460 - INFO -  * Restarting with stat
+2024-06-18 14:08:00,774 - WARNING -  * Debugger is active!
+2024-06-18 14:08:00,774 - INFO -  * Debugger PIN: 145-516-725
+2024-06-18 14:09:25,302 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.10.1.220:5000
+2024-06-18 14:09:25,302 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-18 14:09:25,303 - INFO -  * Restarting with stat
+2024-06-18 14:09:25,643 - WARNING -  * Debugger is active!
+2024-06-18 14:09:25,644 - INFO -  * Debugger PIN: 145-516-725
+2024-06-18 14:09:27,527 - INFO - 127.0.0.1 - - [18/Jun/2024 14:09:27] "[32mGET /main HTTP/1.1[0m" 302 -
+2024-06-18 14:09:27,540 - INFO - 127.0.0.1 - - [18/Jun/2024 14:09:27] "GET /login HTTP/1.1" 200 -
+2024-06-18 14:09:27,572 - INFO - 127.0.0.1 - - [18/Jun/2024 14:09:27] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 14:09:27,573 - INFO - 127.0.0.1 - - [18/Jun/2024 14:09:27] "GET /static/main.css HTTP/1.1" 200 -
+2024-06-18 14:09:27,578 - INFO - 127.0.0.1 - - [18/Jun/2024 14:09:27] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2024-06-18 14:09:32,371 - INFO - Login attempt with email: qwe@mail.com
+2024-06-18 14:09:32,371 - INFO - 127.0.0.1 - - [18/Jun/2024 14:09:32] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-18 14:09:32,373 - WARNING - Main page accessed
+2024-06-18 14:09:32,377 - INFO - 127.0.0.1 - - [18/Jun/2024 14:09:32] "GET /main HTTP/1.1" 200 -
+2024-06-18 14:09:32,440 - INFO - 127.0.0.1 - - [18/Jun/2024 14:09:32] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 14:09:32,444 - INFO - 127.0.0.1 - - [18/Jun/2024 14:09:32] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2024-06-18 14:10:26,466 - WARNING - User logged out
+2024-06-18 14:10:26,466 - INFO - 127.0.0.1 - - [18/Jun/2024 14:10:26] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-06-18 14:10:26,469 - INFO - 127.0.0.1 - - [18/Jun/2024 14:10:26] "GET /login HTTP/1.1" 200 -
+2024-06-18 14:10:26,504 - INFO - 127.0.0.1 - - [18/Jun/2024 14:10:26] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 14:10:26,505 - INFO - 127.0.0.1 - - [18/Jun/2024 14:10:26] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 14:10:26,513 - INFO - 127.0.0.1 - - [18/Jun/2024 14:10:26] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2024-06-18 14:10:31,219 - INFO - Login attempt with email: qwe@mail.com
+2024-06-18 14:10:31,219 - INFO - 127.0.0.1 - - [18/Jun/2024 14:10:31] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-18 14:10:31,224 - WARNING - Main page accessed
+2024-06-18 14:10:31,225 - INFO - 127.0.0.1 - - [18/Jun/2024 14:10:31] "GET /main HTTP/1.1" 200 -
+2024-06-18 14:10:31,282 - INFO - 127.0.0.1 - - [18/Jun/2024 14:10:31] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 14:10:31,289 - INFO - 127.0.0.1 - - [18/Jun/2024 14:10:31] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2024-06-18 14:10:40,290 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.10.1.220:5000
+2024-06-18 14:10:40,291 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-18 14:10:40,292 - INFO -  * Restarting with stat
+2024-06-18 14:10:40,690 - WARNING -  * Debugger is active!
+2024-06-18 14:10:40,690 - INFO -  * Debugger PIN: 145-516-725
+2024-06-18 14:10:43,080 - WARNING - User logged out
+2024-06-18 14:10:43,080 - INFO - 127.0.0.1 - - [18/Jun/2024 14:10:43] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-06-18 14:10:43,085 - INFO - 127.0.0.1 - - [18/Jun/2024 14:10:43] "GET /login HTTP/1.1" 200 -
+2024-06-18 14:10:43,128 - INFO - 127.0.0.1 - - [18/Jun/2024 14:10:43] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 14:10:43,128 - INFO - 127.0.0.1 - - [18/Jun/2024 14:10:43] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 14:10:43,133 - INFO - 127.0.0.1 - - [18/Jun/2024 14:10:43] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2024-06-18 14:10:44,360 - INFO - 127.0.0.1 - - [18/Jun/2024 14:10:44] "GET /login HTTP/1.1" 200 -
+2024-06-18 14:10:44,377 - INFO - 127.0.0.1 - - [18/Jun/2024 14:10:44] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 14:10:44,377 - INFO - 127.0.0.1 - - [18/Jun/2024 14:10:44] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 14:10:44,389 - INFO - 127.0.0.1 - - [18/Jun/2024 14:10:44] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2024-06-18 14:11:32,772 - INFO - 127.0.0.1 - - [18/Jun/2024 14:11:32] "GET /login HTTP/1.1" 200 -
+2024-06-18 14:11:32,790 - INFO - 127.0.0.1 - - [18/Jun/2024 14:11:32] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 14:11:32,791 - INFO - 127.0.0.1 - - [18/Jun/2024 14:11:32] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 14:11:32,807 - INFO - 127.0.0.1 - - [18/Jun/2024 14:11:32] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2024-06-18 14:11:33,431 - INFO - 127.0.0.1 - - [18/Jun/2024 14:11:33] "GET /login HTTP/1.1" 200 -
+2024-06-18 14:11:33,450 - INFO - 127.0.0.1 - - [18/Jun/2024 14:11:33] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 14:11:33,450 - INFO - 127.0.0.1 - - [18/Jun/2024 14:11:33] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 14:11:33,456 - INFO - 127.0.0.1 - - [18/Jun/2024 14:11:33] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2024-06-18 14:11:33,594 - INFO - 127.0.0.1 - - [18/Jun/2024 14:11:33] "GET /login HTTP/1.1" 200 -
+2024-06-18 14:11:33,606 - INFO - 127.0.0.1 - - [18/Jun/2024 14:11:33] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 14:11:33,607 - INFO - 127.0.0.1 - - [18/Jun/2024 14:11:33] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 14:11:33,615 - INFO - 127.0.0.1 - - [18/Jun/2024 14:11:33] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2024-06-18 14:11:33,821 - INFO - 127.0.0.1 - - [18/Jun/2024 14:11:33] "GET /login HTTP/1.1" 200 -
+2024-06-18 14:11:33,837 - INFO - 127.0.0.1 - - [18/Jun/2024 14:11:33] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 14:11:33,838 - INFO - 127.0.0.1 - - [18/Jun/2024 14:11:33] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 14:11:33,841 - INFO - 127.0.0.1 - - [18/Jun/2024 14:11:33] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2024-06-18 14:11:54,515 - INFO -  * Detected change in '/home/denis/Python/w_app_to_arc/app.py', reloading
+2024-06-18 14:11:54,621 - INFO -  * Restarting with stat
+2024-06-18 14:11:54,919 - WARNING -  * Debugger is active!
+2024-06-18 14:11:54,919 - INFO -  * Debugger PIN: 145-516-725
+2024-06-18 14:11:56,488 - INFO - 127.0.0.1 - - [18/Jun/2024 14:11:56] "GET /login HTTP/1.1" 200 -
+2024-06-18 14:11:56,506 - INFO - 127.0.0.1 - - [18/Jun/2024 14:11:56] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 14:11:56,507 - INFO - 127.0.0.1 - - [18/Jun/2024 14:11:56] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 14:11:56,519 - INFO - 127.0.0.1 - - [18/Jun/2024 14:11:56] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2024-06-18 14:12:03,795 - INFO - Login attempt with email: qwe@mail.com
+2024-06-18 14:12:03,796 - INFO - 127.0.0.1 - - [18/Jun/2024 14:12:03] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-18 14:12:03,799 - WARNING - Main page accessed
+2024-06-18 14:12:03,803 - INFO - 127.0.0.1 - - [18/Jun/2024 14:12:03] "GET /main HTTP/1.1" 200 -
+2024-06-18 14:12:03,946 - INFO - 127.0.0.1 - - [18/Jun/2024 14:12:03] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 14:12:03,960 - INFO - 127.0.0.1 - - [18/Jun/2024 14:12:03] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2024-06-18 14:13:26,417 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.10.1.220:5000
+2024-06-18 14:13:26,417 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-18 14:13:26,418 - INFO -  * Restarting with stat
+2024-06-18 14:13:26,794 - WARNING -  * Debugger is active!
+2024-06-18 14:13:26,794 - INFO -  * Debugger PIN: 145-516-725
+2024-06-18 14:13:28,980 - WARNING - User logged out
+2024-06-18 14:13:28,981 - INFO - 127.0.0.1 - - [18/Jun/2024 14:13:28] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-06-18 14:13:28,995 - INFO - 127.0.0.1 - - [18/Jun/2024 14:13:28] "GET /login HTTP/1.1" 200 -
+2024-06-18 14:13:29,095 - INFO - 127.0.0.1 - - [18/Jun/2024 14:13:29] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 14:13:29,096 - INFO - 127.0.0.1 - - [18/Jun/2024 14:13:29] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 14:13:29,108 - INFO - 127.0.0.1 - - [18/Jun/2024 14:13:29] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2024-06-18 14:13:32,889 - INFO - Login attempt with email: qwe@mail.com
+2024-06-18 14:13:32,889 - INFO - 127.0.0.1 - - [18/Jun/2024 14:13:32] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-18 14:13:32,892 - WARNING - Main page accessed
+2024-06-18 14:13:32,896 - INFO - 127.0.0.1 - - [18/Jun/2024 14:13:32] "GET /main HTTP/1.1" 200 -
+2024-06-18 14:13:32,994 - INFO - 127.0.0.1 - - [18/Jun/2024 14:13:32] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 14:13:33,009 - INFO - 127.0.0.1 - - [18/Jun/2024 14:13:33] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2024-06-18 14:14:42,160 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.10.1.220:5000
+2024-06-18 14:14:42,161 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-18 14:14:42,161 - INFO -  * Restarting with stat
+2024-06-18 14:14:42,509 - WARNING -  * Debugger is active!
+2024-06-18 14:14:42,509 - INFO -  * Debugger PIN: 145-516-725
+2024-06-18 14:14:44,321 - WARNING - User logged out
+2024-06-18 14:14:44,322 - INFO - 127.0.0.1 - - [18/Jun/2024 14:14:44] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-06-18 14:14:44,366 - INFO - 127.0.0.1 - - [18/Jun/2024 14:14:44] "GET /login HTTP/1.1" 200 -
+2024-06-18 14:14:44,424 - INFO - 127.0.0.1 - - [18/Jun/2024 14:14:44] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 14:14:44,426 - INFO - 127.0.0.1 - - [18/Jun/2024 14:14:44] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 14:14:44,444 - INFO - 127.0.0.1 - - [18/Jun/2024 14:14:44] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2024-06-18 14:14:48,289 - INFO - Login attempt with email: qwe@mail.com
+2024-06-18 14:14:48,289 - INFO - 127.0.0.1 - - [18/Jun/2024 14:14:48] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-18 14:14:48,308 - WARNING - Main page accessed
+2024-06-18 14:14:48,314 - INFO - 127.0.0.1 - - [18/Jun/2024 14:14:48] "GET /main HTTP/1.1" 200 -
+2024-06-18 14:14:48,389 - INFO - 127.0.0.1 - - [18/Jun/2024 14:14:48] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 14:14:48,401 - INFO - 127.0.0.1 - - [18/Jun/2024 14:14:48] "[33mGET /static/background.jpg HTTP/1.1[0m" 404 -
+2024-06-18 14:15:40,173 - WARNING - Main page accessed
+2024-06-18 14:15:40,174 - INFO - 127.0.0.1 - - [18/Jun/2024 14:15:40] "GET /main HTTP/1.1" 200 -
+2024-06-18 14:15:40,200 - INFO - 127.0.0.1 - - [18/Jun/2024 14:15:40] "GET /static/main.css HTTP/1.1" 200 -
+2024-06-18 14:15:41,560 - WARNING - User logged out
+2024-06-18 14:15:41,561 - INFO - 127.0.0.1 - - [18/Jun/2024 14:15:41] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-06-18 14:15:41,564 - INFO - 127.0.0.1 - - [18/Jun/2024 14:15:41] "GET /login HTTP/1.1" 200 -
+2024-06-18 14:15:41,597 - INFO - 127.0.0.1 - - [18/Jun/2024 14:15:41] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 14:15:41,598 - INFO - 127.0.0.1 - - [18/Jun/2024 14:15:41] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 14:15:49,573 - INFO - Login attempt with email: qwe@mail.com
+2024-06-18 14:15:49,574 - INFO - 127.0.0.1 - - [18/Jun/2024 14:15:49] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-18 14:15:49,582 - WARNING - Main page accessed
+2024-06-18 14:15:49,583 - INFO - 127.0.0.1 - - [18/Jun/2024 14:15:49] "GET /main HTTP/1.1" 200 -
+2024-06-18 14:15:49,639 - INFO - 127.0.0.1 - - [18/Jun/2024 14:15:49] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 14:16:47,237 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.10.1.220:5000
+2024-06-18 14:16:47,237 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-18 14:16:47,237 - INFO -  * Restarting with stat
+2024-06-18 14:16:47,621 - WARNING -  * Debugger is active!
+2024-06-18 14:16:47,622 - INFO -  * Debugger PIN: 145-516-725
+2024-06-18 14:16:48,894 - WARNING - Main page accessed
+2024-06-18 14:16:48,903 - INFO - 127.0.0.1 - - [18/Jun/2024 14:16:48] "GET /main HTTP/1.1" 200 -
+2024-06-18 14:16:48,941 - INFO - 127.0.0.1 - - [18/Jun/2024 14:16:48] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 14:16:50,291 - WARNING - User logged out
+2024-06-18 14:16:50,293 - INFO - 127.0.0.1 - - [18/Jun/2024 14:16:50] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-06-18 14:16:50,302 - INFO - 127.0.0.1 - - [18/Jun/2024 14:16:50] "GET /login HTTP/1.1" 200 -
+2024-06-18 14:16:50,336 - INFO - 127.0.0.1 - - [18/Jun/2024 14:16:50] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 14:16:50,337 - INFO - 127.0.0.1 - - [18/Jun/2024 14:16:50] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 14:16:56,165 - INFO - Login attempt with email: qwe@mail.com
+2024-06-18 14:16:56,165 - INFO - 127.0.0.1 - - [18/Jun/2024 14:16:56] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-18 14:16:56,167 - WARNING - Main page accessed
+2024-06-18 14:16:56,167 - INFO - 127.0.0.1 - - [18/Jun/2024 14:16:56] "GET /main HTTP/1.1" 200 -
+2024-06-18 14:16:56,262 - INFO - 127.0.0.1 - - [18/Jun/2024 14:16:56] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 14:20:37,728 - INFO -  * Detected change in '/home/denis/Python/w_app_to_arc/app.py', reloading
+2024-06-18 14:20:37,824 - INFO -  * Restarting with stat
+2024-06-18 14:20:38,137 - WARNING -  * Debugger is active!
+2024-06-18 14:20:38,137 - INFO -  * Debugger PIN: 145-516-725
+2024-06-18 14:20:42,066 - WARNING - User logged out
+2024-06-18 14:20:42,066 - INFO - 127.0.0.1 - - [18/Jun/2024 14:20:42] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-06-18 14:20:42,072 - INFO - 127.0.0.1 - - [18/Jun/2024 14:20:42] "GET /login HTTP/1.1" 200 -
+2024-06-18 14:20:42,110 - INFO - 127.0.0.1 - - [18/Jun/2024 14:20:42] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 14:20:42,111 - INFO - 127.0.0.1 - - [18/Jun/2024 14:20:42] "GET /static/main.css HTTP/1.1" 200 -
+2024-06-18 14:20:46,311 - INFO - Login attempt with email: qwe@mail.com
+2024-06-18 14:20:46,312 - INFO - 127.0.0.1 - - [18/Jun/2024 14:20:46] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-18 14:20:46,329 - WARNING - Main page accessed
+2024-06-18 14:20:46,336 - INFO - 127.0.0.1 - - [18/Jun/2024 14:20:46] "GET /main HTTP/1.1" 200 -
+2024-06-18 14:20:46,392 - INFO - 127.0.0.1 - - [18/Jun/2024 14:20:46] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 14:21:27,390 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.10.1.220:5000
+2024-06-18 14:21:27,390 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-18 14:21:27,391 - INFO -  * Restarting with stat
+2024-06-18 14:21:27,739 - WARNING -  * Debugger is active!
+2024-06-18 14:21:27,739 - INFO -  * Debugger PIN: 145-516-725
+2024-06-18 14:21:29,747 - WARNING - User logged out
+2024-06-18 14:21:29,747 - INFO - 127.0.0.1 - - [18/Jun/2024 14:21:29] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-06-18 14:21:29,763 - INFO - 127.0.0.1 - - [18/Jun/2024 14:21:29] "GET /login HTTP/1.1" 200 -
+2024-06-18 14:21:29,815 - INFO - 127.0.0.1 - - [18/Jun/2024 14:21:29] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-18 14:21:29,815 - INFO - 127.0.0.1 - - [18/Jun/2024 14:21:29] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 14:21:33,759 - INFO - Login attempt with email: qwe@mail.com
+2024-06-18 14:21:33,760 - INFO - 127.0.0.1 - - [18/Jun/2024 14:21:33] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-18 14:21:33,762 - WARNING - Main page accessed
+2024-06-18 14:21:33,765 - INFO - 127.0.0.1 - - [18/Jun/2024 14:21:33] "GET /main HTTP/1.1" 200 -
+2024-06-18 14:21:33,850 - INFO - 127.0.0.1 - - [18/Jun/2024 14:21:33] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 14:21:40,042 - INFO - City weather information requested for minsk
+2024-06-18 14:21:45,641 - INFO - 127.0.0.1 - - [18/Jun/2024 14:21:45] "POST /main HTTP/1.1" 200 -
+2024-06-18 14:21:45,661 - INFO - 127.0.0.1 - - [18/Jun/2024 14:21:45] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 14:21:45,663 - INFO - 127.0.0.1 - - [18/Jun/2024 14:21:45] "[36mGET /static/icons/rain.png HTTP/1.1[0m" 304 -
+2024-06-18 14:21:45,665 - INFO - 127.0.0.1 - - [18/Jun/2024 14:21:45] "[36mGET /static/icons/partly-cloudy-day.png HTTP/1.1[0m" 304 -
+2024-06-18 14:21:45,666 - INFO - 127.0.0.1 - - [18/Jun/2024 14:21:45] "[36mGET /static/icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-06-18 14:21:49,833 - WARNING - User logged out
+2024-06-18 14:21:49,834 - INFO - 127.0.0.1 - - [18/Jun/2024 14:21:49] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-06-18 14:21:49,842 - INFO - 127.0.0.1 - - [18/Jun/2024 14:21:49] "GET /login HTTP/1.1" 200 -
+2024-06-18 14:21:49,886 - INFO - 127.0.0.1 - - [18/Jun/2024 14:21:49] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-18 14:21:49,891 - INFO - 127.0.0.1 - - [18/Jun/2024 14:21:49] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-20 12:05:11,657 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.10.1.220:5000
+2024-06-20 12:05:11,658 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-20 12:05:11,659 - INFO -  * Restarting with stat
+2024-06-20 12:05:12,150 - WARNING -  * Debugger is active!
+2024-06-20 12:05:12,232 - INFO -  * Debugger PIN: 127-321-913
+2024-06-20 12:05:23,656 - INFO - 127.0.0.1 - - [20/Jun/2024 12:05:23] "[32mGET / HTTP/1.1[0m" 302 -
+2024-06-20 12:05:23,665 - INFO - 127.0.0.1 - - [20/Jun/2024 12:05:23] "GET /login HTTP/1.1" 200 -
+2024-06-20 12:05:23,727 - INFO - 127.0.0.1 - - [20/Jun/2024 12:05:23] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-20 12:05:23,729 - INFO - 127.0.0.1 - - [20/Jun/2024 12:05:23] "GET /static/main.css HTTP/1.1" 200 -
+2024-06-20 12:05:25,004 - INFO - 127.0.0.1 - - [20/Jun/2024 12:05:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-06-20 12:05:26,494 - INFO - 127.0.0.1 - - [20/Jun/2024 12:05:26] "GET /login HTTP/1.1" 200 -
+2024-06-20 12:05:26,511 - INFO - 127.0.0.1 - - [20/Jun/2024 12:05:26] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-20 12:05:26,518 - INFO - 127.0.0.1 - - [20/Jun/2024 12:05:26] "GET /static/main.css HTTP/1.1" 200 -
+2024-06-20 12:06:26,946 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.10.1.220:5000
+2024-06-20 12:06:26,946 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-20 12:06:26,946 - INFO -  * Restarting with stat
+2024-06-20 12:06:27,387 - WARNING -  * Debugger is active!
+2024-06-20 12:06:27,387 - INFO -  * Debugger PIN: 127-321-913
+2024-06-20 12:06:29,923 - INFO - 127.0.0.1 - - [20/Jun/2024 12:06:29] "GET /login HTTP/1.1" 200 -
+2024-06-20 12:06:29,984 - INFO - 127.0.0.1 - - [20/Jun/2024 12:06:29] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-20 12:06:29,996 - INFO - 127.0.0.1 - - [20/Jun/2024 12:06:29] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-20 12:06:31,676 - INFO - 127.0.0.1 - - [20/Jun/2024 12:06:31] "GET /login HTTP/1.1" 200 -
+2024-06-20 12:06:31,702 - INFO - 127.0.0.1 - - [20/Jun/2024 12:06:31] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-20 12:06:31,703 - INFO - 127.0.0.1 - - [20/Jun/2024 12:06:31] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-20 12:06:32,854 - INFO - 127.0.0.1 - - [20/Jun/2024 12:06:32] "GET /login HTTP/1.1" 200 -
+2024-06-20 12:06:32,872 - INFO - 127.0.0.1 - - [20/Jun/2024 12:06:32] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-20 12:06:32,872 - INFO - 127.0.0.1 - - [20/Jun/2024 12:06:32] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-20 12:06:36,587 - INFO - 127.0.0.1 - - [20/Jun/2024 12:06:36] "[32mGET / HTTP/1.1[0m" 302 -
+2024-06-20 12:06:36,591 - INFO - 127.0.0.1 - - [20/Jun/2024 12:06:36] "GET /login HTTP/1.1" 200 -
+2024-06-20 12:06:36,625 - INFO - 127.0.0.1 - - [20/Jun/2024 12:06:36] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-20 12:06:36,625 - INFO - 127.0.0.1 - - [20/Jun/2024 12:06:36] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-20 12:06:37,837 - INFO - 127.0.0.1 - - [20/Jun/2024 12:06:37] "GET /login HTTP/1.1" 200 -
+2024-06-20 12:06:37,856 - INFO - 127.0.0.1 - - [20/Jun/2024 12:06:37] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-20 12:06:37,858 - INFO - 127.0.0.1 - - [20/Jun/2024 12:06:37] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-20 12:06:51,366 - INFO - Login attempt with email: qwe@mail.com
+2024-06-20 12:06:51,366 - INFO - 127.0.0.1 - - [20/Jun/2024 12:06:51] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-20 12:06:51,368 - WARNING - Main page accessed
+2024-06-20 12:06:51,372 - INFO - 127.0.0.1 - - [20/Jun/2024 12:06:51] "GET /main HTTP/1.1" 200 -
+2024-06-20 12:06:51,454 - INFO - 127.0.0.1 - - [20/Jun/2024 12:06:51] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-20 12:09:02,997 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.10.1.220:5000
+2024-06-20 12:09:02,997 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-20 12:09:02,997 - INFO -  * Restarting with stat
+2024-06-20 12:09:03,452 - WARNING -  * Debugger is active!
+2024-06-20 12:09:03,467 - INFO -  * Debugger PIN: 127-321-913
+2024-06-20 12:09:06,815 - INFO - 127.0.0.1 - - [20/Jun/2024 12:09:06] "[32mGET /main HTTP/1.1[0m" 302 -
+2024-06-20 12:09:06,819 - INFO - 127.0.0.1 - - [20/Jun/2024 12:09:06] "GET /login HTTP/1.1" 200 -
+2024-06-20 12:09:06,849 - INFO - 127.0.0.1 - - [20/Jun/2024 12:09:06] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-20 12:09:06,851 - INFO - 127.0.0.1 - - [20/Jun/2024 12:09:06] "GET /static/main.css HTTP/1.1" 200 -
+2024-06-20 12:09:11,564 - INFO - Login attempt with email: qwe@mail.com
+2024-06-20 12:09:11,565 - INFO - 127.0.0.1 - - [20/Jun/2024 12:09:11] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-20 12:09:11,567 - WARNING - Main page accessed
+2024-06-20 12:09:11,570 - INFO - 127.0.0.1 - - [20/Jun/2024 12:09:11] "GET /main HTTP/1.1" 200 -
+2024-06-20 12:09:11,680 - INFO - 127.0.0.1 - - [20/Jun/2024 12:09:11] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-20 12:09:14,799 - WARNING - User logged out
+2024-06-20 12:09:14,799 - INFO - 127.0.0.1 - - [20/Jun/2024 12:09:14] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-06-20 12:09:14,802 - INFO - 127.0.0.1 - - [20/Jun/2024 12:09:14] "GET /login HTTP/1.1" 200 -
+2024-06-20 12:09:14,824 - INFO - 127.0.0.1 - - [20/Jun/2024 12:09:14] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-20 12:09:14,833 - INFO - 127.0.0.1 - - [20/Jun/2024 12:09:14] "GET /static/main.css HTTP/1.1" 200 -
+2024-06-20 12:10:07,116 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.10.1.220:5000
+2024-06-20 12:10:07,116 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-20 12:10:07,116 - INFO -  * Restarting with stat
+2024-06-20 12:10:07,554 - WARNING -  * Debugger is active!
+2024-06-20 12:10:07,554 - INFO -  * Debugger PIN: 127-321-913
+2024-06-20 12:10:09,547 - INFO - 127.0.0.1 - - [20/Jun/2024 12:10:09] "GET /login HTTP/1.1" 200 -
+2024-06-20 12:10:09,582 - INFO - 127.0.0.1 - - [20/Jun/2024 12:10:09] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-20 12:10:09,583 - INFO - 127.0.0.1 - - [20/Jun/2024 12:10:09] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-20 12:10:13,430 - INFO - Login attempt with email: qwe@mail.com
+2024-06-20 12:10:13,431 - INFO - 127.0.0.1 - - [20/Jun/2024 12:10:13] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-20 12:10:13,435 - WARNING - Main page accessed
+2024-06-20 12:10:13,438 - INFO - 127.0.0.1 - - [20/Jun/2024 12:10:13] "GET /main HTTP/1.1" 200 -
+2024-06-20 12:10:13,552 - INFO - 127.0.0.1 - - [20/Jun/2024 12:10:13] "GET /static/main.css HTTP/1.1" 200 -
+2024-06-20 12:10:25,898 - INFO -  * Detected change in '/home/denis/Python/w_app_to_arc/app.py', reloading
+2024-06-20 12:10:25,997 - INFO -  * Restarting with stat
+2024-06-20 12:10:26,366 - WARNING -  * Debugger is active!
+2024-06-20 12:10:26,366 - INFO -  * Debugger PIN: 127-321-913
+2024-06-20 12:10:37,268 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.10.1.220:5000
+2024-06-20 12:10:37,269 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-20 12:10:37,269 - INFO -  * Restarting with stat
+2024-06-20 12:10:37,708 - WARNING -  * Debugger is active!
+2024-06-20 12:10:37,708 - INFO -  * Debugger PIN: 127-321-913
+2024-06-20 12:10:39,212 - WARNING - User logged out
+2024-06-20 12:10:39,213 - INFO - 127.0.0.1 - - [20/Jun/2024 12:10:39] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-06-20 12:10:39,244 - INFO - 127.0.0.1 - - [20/Jun/2024 12:10:39] "GET /login HTTP/1.1" 200 -
+2024-06-20 12:10:39,300 - INFO - 127.0.0.1 - - [20/Jun/2024 12:10:39] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-20 12:10:39,301 - INFO - 127.0.0.1 - - [20/Jun/2024 12:10:39] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-20 12:10:43,017 - INFO - Login attempt with email: qwe@mail.com
+2024-06-20 12:10:43,018 - INFO - 127.0.0.1 - - [20/Jun/2024 12:10:43] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-20 12:10:43,020 - WARNING - Main page accessed
+2024-06-20 12:10:43,024 - INFO - 127.0.0.1 - - [20/Jun/2024 12:10:43] "GET /main HTTP/1.1" 200 -
+2024-06-20 12:10:43,151 - INFO - 127.0.0.1 - - [20/Jun/2024 12:10:43] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-20 12:10:53,532 - WARNING - User logged out
+2024-06-20 12:10:53,532 - INFO - 127.0.0.1 - - [20/Jun/2024 12:10:53] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-06-20 12:10:53,538 - INFO - 127.0.0.1 - - [20/Jun/2024 12:10:53] "GET /login HTTP/1.1" 200 -
+2024-06-20 12:10:53,571 - INFO - 127.0.0.1 - - [20/Jun/2024 12:10:53] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-20 12:10:53,572 - INFO - 127.0.0.1 - - [20/Jun/2024 12:10:53] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-20 12:11:28,588 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.10.1.220:5000
+2024-06-20 12:11:28,588 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-20 12:11:28,588 - INFO -  * Restarting with stat
+2024-06-20 12:11:28,997 - WARNING -  * Debugger is active!
+2024-06-20 12:11:28,997 - INFO -  * Debugger PIN: 127-321-913
+2024-06-20 12:11:30,899 - INFO - 127.0.0.1 - - [20/Jun/2024 12:11:30] "GET /login HTTP/1.1" 200 -
+2024-06-20 12:11:30,944 - INFO - 127.0.0.1 - - [20/Jun/2024 12:11:30] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-20 12:11:30,960 - INFO - 127.0.0.1 - - [20/Jun/2024 12:11:30] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-20 12:11:34,628 - INFO - Login attempt with email: qwe@mail.com
+2024-06-20 12:11:34,629 - INFO - 127.0.0.1 - - [20/Jun/2024 12:11:34] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-20 12:11:34,631 - WARNING - Main page accessed
+2024-06-20 12:11:34,634 - INFO - 127.0.0.1 - - [20/Jun/2024 12:11:34] "GET /main HTTP/1.1" 200 -
+2024-06-20 12:11:34,762 - INFO - 127.0.0.1 - - [20/Jun/2024 12:11:34] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-20 13:46:05,856 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.10.1.220:5000
+2024-06-20 13:46:05,857 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-20 13:46:05,858 - INFO -  * Restarting with stat
+2024-06-20 13:46:06,382 - WARNING -  * Debugger is active!
+2024-06-20 13:46:06,386 - INFO -  * Debugger PIN: 127-321-913
+2024-06-20 13:46:20,501 - INFO - 127.0.0.1 - - [20/Jun/2024 13:46:20] "[32mGET / HTTP/1.1[0m" 302 -
+2024-06-20 13:46:20,517 - INFO - 127.0.0.1 - - [20/Jun/2024 13:46:20] "GET /login HTTP/1.1" 200 -
+2024-06-20 13:46:20,598 - INFO - 127.0.0.1 - - [20/Jun/2024 13:46:20] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-20 13:46:20,599 - INFO - 127.0.0.1 - - [20/Jun/2024 13:46:20] "GET /static/main.css HTTP/1.1" 200 -
+2024-06-20 13:46:21,578 - INFO - 127.0.0.1 - - [20/Jun/2024 13:46:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-06-20 13:46:28,355 - INFO - Login attempt with email: qwe@mail.com
+2024-06-20 13:46:28,356 - INFO - 127.0.0.1 - - [20/Jun/2024 13:46:28] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-20 13:46:28,369 - WARNING - Main page accessed
+2024-06-20 13:46:28,376 - INFO - 127.0.0.1 - - [20/Jun/2024 13:46:28] "GET /main HTTP/1.1" 200 -
+2024-06-20 13:46:28,438 - INFO - 127.0.0.1 - - [20/Jun/2024 13:46:28] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-20 13:49:13,775 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.10.1.220:5000
+2024-06-20 13:49:13,775 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-20 13:49:13,775 - INFO -  * Restarting with stat
+2024-06-20 13:49:14,086 - WARNING -  * Debugger is active!
+2024-06-20 13:49:14,086 - INFO -  * Debugger PIN: 127-321-913
+2024-06-20 13:49:16,079 - INFO - 127.0.0.1 - - [20/Jun/2024 13:49:16] "[32mGET /main HTTP/1.1[0m" 302 -
+2024-06-20 13:49:16,096 - INFO - 127.0.0.1 - - [20/Jun/2024 13:49:16] "GET /login HTTP/1.1" 200 -
+2024-06-20 13:49:16,168 - INFO - 127.0.0.1 - - [20/Jun/2024 13:49:16] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-20 13:49:16,178 - INFO - 127.0.0.1 - - [20/Jun/2024 13:49:16] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-20 13:49:20,014 - INFO - Login attempt with email: qwe@mail.com
+2024-06-20 13:49:20,016 - INFO - 127.0.0.1 - - [20/Jun/2024 13:49:20] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-20 13:49:20,022 - WARNING - Main page accessed
+2024-06-20 13:49:20,026 - INFO - 127.0.0.1 - - [20/Jun/2024 13:49:20] "GET /main HTTP/1.1" 200 -
+2024-06-20 13:49:20,060 - INFO - 127.0.0.1 - - [20/Jun/2024 13:49:20] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-20 13:49:37,725 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-06-20 13:49:37,725 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-20 13:55:37,147 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.10.1.220:5000
+2024-06-20 13:55:37,147 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-20 13:55:37,148 - INFO -  * Restarting with stat
+2024-06-20 13:55:37,631 - WARNING -  * Debugger is active!
+2024-06-20 13:55:37,631 - INFO -  * Debugger PIN: 127-321-913
+2024-06-20 13:55:51,425 - INFO - 127.0.0.1 - - [20/Jun/2024 13:55:51] "[32mGET /main HTTP/1.1[0m" 302 -
+2024-06-20 13:55:51,439 - INFO - 127.0.0.1 - - [20/Jun/2024 13:55:51] "GET /login HTTP/1.1" 200 -
+2024-06-20 13:55:51,457 - INFO - 127.0.0.1 - - [20/Jun/2024 13:55:51] "[33mGET /docs/5.3/dist/js/bootstrap.bundle.min.js HTTP/1.1[0m" 404 -
+2024-06-20 13:55:51,458 - INFO - 127.0.0.1 - - [20/Jun/2024 13:55:51] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-20 13:55:57,707 - INFO - Login attempt with email: qwe@mail.com
+2024-06-20 13:55:57,708 - INFO - 127.0.0.1 - - [20/Jun/2024 13:55:57] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-06-20 13:55:57,714 - WARNING - Main page accessed
+2024-06-20 13:55:57,717 - INFO - 127.0.0.1 - - [20/Jun/2024 13:55:57] "GET /main HTTP/1.1" 200 -
+2024-06-20 13:55:57,769 - INFO - 127.0.0.1 - - [20/Jun/2024 13:55:57] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-20 13:56:45,224 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.10.1.220:5000
+2024-06-20 13:56:45,224 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-20 13:56:45,225 - INFO -  * Restarting with stat
+2024-06-20 13:56:45,689 - WARNING -  * Debugger is active!
+2024-06-20 13:56:45,690 - INFO -  * Debugger PIN: 127-321-913
+2024-06-20 13:56:46,513 - WARNING - Main page accessed
+2024-06-20 13:56:46,521 - INFO - 127.0.0.1 - - [20/Jun/2024 13:56:46] "GET /main HTTP/1.1" 200 -
+2024-06-20 13:56:46,562 - INFO - 127.0.0.1 - - [20/Jun/2024 13:56:46] "[36mGET /static/main.css HTTP/1.1[0m" 304 -
+2024-06-20 13:59:06,400 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.10.1.220:5000
+2024-06-20 13:59:06,400 - INFO - [33mPress CTRL+C to quit[0m
+2024-06-20 13:59:06,400 - INFO -  * Restarting with stat
+2024-06-20 13:59:06,733 - WARNING -  * Debugger is active!
+2024-06-20 13:59:06,733 - INFO -  * Debugger PIN: 127-321-913

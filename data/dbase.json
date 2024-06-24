@@ -1,0 +1,20 @@
+{
+    "abc@mail.com": {
+        "password": "123123"
+    },
+    "qwe@mail.com": {
+        "password": "123123"
+    },
+    "a@b": {
+        "password": "123123"
+    },
+    "qw@qw": {
+        "password": "123123"
+    },
+    "fr@fed": {
+        "password": "123123"
+    },
+    "tre@m.com": {
+        "password": "123123"
+    }
+}
